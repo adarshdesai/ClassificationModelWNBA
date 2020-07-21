@@ -1,4 +1,4 @@
-# MachineLearning-ClassificationModel
+# ClassificationModelWNBA
 Dataset - wnba-team-elo-ratings.csv (The file portrays all the Games’ statistics with ratings and win probabilities of each teams in the Tournament)
 
 The Dataset contains advanced statistics of teams and players of Women NBA history for the 1997-2019 seasons. Where the file represents the Teams’ performance statistics with ratings and win probabilities of each teams in the Tournament. 
