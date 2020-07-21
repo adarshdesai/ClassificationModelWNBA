@@ -5,3 +5,5 @@ The Dataset contains advanced statistics of teams and players of Women NBA histo
 
 
 This Classification model predicts IsHome category.
+
+Dataset source : https://github.com/fivethirtyeight/WNBA-stats
